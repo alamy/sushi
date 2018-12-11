@@ -1,0 +1,105 @@
+{
+    "name" : "Temaki Zap",
+    "short_name" : "Temaki Zap",
+    "theme_color" : "#fff",
+    "backgroun_color": "#fff",
+    "display" : "standalone",
+    "start_url" : "/app",
+    "icons" :[{
+        "src" : "img/iconApp.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/iconApp.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/500.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/camarao.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/carioca.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/cocalata.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/ebiKAni.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/ebimaki.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/ebiSalmao.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/filadelfia.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/hotFila.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/kani.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/kaniesalmao.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/nigiri.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/salmao.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/sunomono.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/sunomonoMisto.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/menu/sushi.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    },
+    {
+         "src" : "img/menu/uramaki.jpg",
+        "sizes": "450X450",
+        "type" :"image/png"
+    }
+]
+
+}
